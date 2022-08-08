@@ -1,0 +1,14 @@
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.csproj.AssemblyReference.cache
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.ManageNotificationSubscription.resources
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.Properties.Resources.resources
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.csproj.GenerateResource.cache
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.csproj.CoreCompileInputs.cache
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.Form1.resources
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.SendNotification.resources
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\bin\Debug\Lab2Bowen.exe.config
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\bin\Debug\Lab2Bowen.exe
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\bin\Debug\Lab2Bowen.pdb
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.csproj.CopyComplete
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.exe
+C:\Users\Bowen\source\repos\Lab2Bowen\Lab2Bowen\obj\Debug\Lab2Bowen.pdb
